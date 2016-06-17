@@ -15,6 +15,7 @@ $result = mysql_query("SELECT * FROM users ORDER BY id DESC");
 <html>
 <head>	
 	<title>CMS Home</title>
+	<link rel="stylesheet" href="css.css">
 </head>
 
 <body>

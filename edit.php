@@ -35,6 +35,8 @@ while($res = mysql_fetch_array($result))
 <html>
 <head>	
 	<title>Izmeni podatke</title>
+	<link rel="stylesheet" href="css.css">
+
 </head>
 
 <body>

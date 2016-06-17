@@ -6,6 +6,8 @@
 <html>
 <head>
 	<title>Dodaj novog korisnika</title>
+	<link rel="stylesheet" href="css.css">
+
 </head>
 
 <body>

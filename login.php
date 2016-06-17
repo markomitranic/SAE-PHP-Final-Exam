@@ -22,6 +22,8 @@ if (isLoggedIn()) {
 <head>
 	<meta charset="UTF-8">
 	<title>CMS Login Page</title>
+	<link rel="stylesheet" href="css.css">
+
 </head>
 <body>
 
